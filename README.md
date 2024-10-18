@@ -1,2 +1,5 @@
-# taller_git
-Clases de git en AID
+# README.md
+
+## Aprendiendo GIT
+Repo para hacer ejemplos en la clase
+
